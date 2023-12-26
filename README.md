@@ -1,4 +1,4 @@
-# 3D-Social-Tile-Buttons
+# 3D Social Tile Buttons
 
 ![](ss1.png)
 
